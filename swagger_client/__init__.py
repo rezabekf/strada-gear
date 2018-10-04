@@ -88,3 +88,6 @@ from swagger_client.models.timed_zone_range import TimedZoneRange
 from swagger_client.models.detailed_activity import DetailedActivity
 from swagger_client.models.detailed_athlete import DetailedAthlete
 from swagger_client.models.detailed_club import DetailedClub
+
+
+raise Exception
